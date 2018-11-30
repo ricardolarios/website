@@ -1,0 +1,11 @@
+p {
+  color: red; }
+
+a {
+  text-decoration: none;
+  color: pink; }
+  a:hover {
+    color: red;
+    transition: 2s; }
+
+/*# sourceMappingURL=style.css.map */

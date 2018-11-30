@@ -1,0 +1,39 @@
+html {
+  background-color: #00539F; }
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black; }
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 5px black; }
+
+img#isaac {
+  display: block;
+  margin: 0 auto; }
+
+p {
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  color: white; }
+
+#games li {
+  font-size: 14px;
+  font-family: "Montserrat", sans-serif;
+  color: white; }
+#games a {
+  text-decoration: none;
+  color: pink; }
+  #games a:hover {
+    color: red;
+    transition: color .3s; }
+
+/*# sourceMappingURL=style.css.map */
